@@ -1,0 +1,38 @@
+.Counter{
+    width: 300px;
+    margin: 150px auto;
+    border:1px solid aqua;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.CountBlock {
+    width: 90%;
+    height: 90px;
+    text-align: center;
+    font-size: 52px;
+    font-weight:bold;
+    padding-top: 20px;
+    margin: auto;
+    background-color: aqua;
+    color: black;
+    border-radius: 10px;
+}
+.btnClass{
+    display: flex;
+    flex-direction: column;
+    margin: 15px auto;
+    padding: 15px 0;
+    border: 1px solid aqua;
+    border-radius: 10px;
+}
+.btnClass button{
+    margin: 15px 15px;
+    padding: 5px 25px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.Count{
+    color: red;
+}

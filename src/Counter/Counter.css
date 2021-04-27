@@ -1,0 +1,85 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.Counter{
+    width: 300px;
+    margin: 150px auto auto 300px;
+    border:1px solid aqua;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.CountBlock {
+    width: 90%;
+    height: 90px;
+    text-align: center;
+    font-size: 52px;
+    font-weight:bold;
+    padding-top: 20px;
+    margin: auto;
+    background-color: aqua;
+    color: black;
+    border-radius: 10px;
+}
+.btnClass{
+    display: flex;
+    width: 90%;
+    margin: 15px auto;
+    padding: 15px 0;
+    border: 1px solid aqua;
+    border-radius: 10px;
+}
+.btnClass button{
+    margin: 0 15px;
+    padding: 5px 25px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.Error{
+    font-size: 20px;
+    background-color: aqua;
+    color: red;
+    vertical-align: 15px;
+}
+.input-error{
+    background-color: red;
+}
+
+.ChangeValue{
+    display: flex;
+    width: 90%;
+    margin: 15px auto;
+    padding: 15px 0;
+    border: 1px solid aqua;
+    border-radius: 10px;
+}
+.ChangeValue span{
+    font-family: Arial;
+    margin: 0 10px ;
+}
+.ChangeValue input{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: grey;
+    text-align: center;
+}
+.setClass{
+    width: 90%;
+    margin: 15px auto;
+    border: 1px solid aqua;
+    border-radius: 5px;
+    text-align: center;
+}
+.setClass button{
+    width: 100px;
+    margin: 7px 0;
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: aqua;
+    padding: 10px;
+}
+.error{
+
+}
